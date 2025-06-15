@@ -145,7 +145,7 @@ verify_fs() {
 	return 0
 }
 
-# === Fix roofs installation ===
+# === Fix rootfs installation ===
 do_chroot() {
 	NHSYS=/data/local/nhsystem
 
